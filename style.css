@@ -1,0 +1,36 @@
+/*
+primary: #000000
+secundary: #282A3A
+light: #735F32
+info: #C69749
+*/
+h1{
+    color: yellow;
+}
+.bg-primary{
+    background-color: blue;
+}
+.text-light{
+    color: black;
+}
+.text-secundary{
+    color: aqua;
+}
+.text-center{
+    text-align: center;
+}
+.text-right{
+    text-align: right;
+}
+.width{
+    width: 100px;
+}
+.bg-info{
+    background-color: purple;
+}
+.text-primary{
+    color: brown;
+}
+.text-white{
+    color: white;
+}
